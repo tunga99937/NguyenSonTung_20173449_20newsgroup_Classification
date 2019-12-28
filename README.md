@@ -1,7 +1,6 @@
 # project1_ANN_NB_SVM
 # Tập dữ liệu :
-  Sử dụng tập dữ liệu 20newsgroup phiên bản 20news-18828 ( không gồm những văn bản trùng lặp và những văn bản thuộc nhiều chủ đề; dữ liệu chưa được phân loại thành tập train và test)\n
-  Tập train và test được chia theo tỉ lệ 6/4 :
+  Sử dụng tập dữ liệu 20newsgroup phiên bản 20news-18828 ( không gồm những văn bản trùng lặp và những văn bản thuộc nhiều chủ đề; dữ liệu chưa được phân loại thành tập train và test). Tập train và test được chia theo tỉ lệ 6/4 :
    - Dữ liệu được lưu trong 2 folder : 20newsgroup_train và 20newsgroup_test
    - Nhãn lớp của các văn bản được lưu vào 2 file : train_label.data và test_label.data
 ## Chú ý:
