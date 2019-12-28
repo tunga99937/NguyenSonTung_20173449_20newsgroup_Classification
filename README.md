@@ -4,7 +4,7 @@
    - Dữ liệu được lưu trong 2 folder : 20newsgroup_train và 20newsgroup_test
    - Nhãn lớp của các văn bản được lưu vào 2 file : train_label.txt và test_label.txt
 ## Chú ý:
-   Việc xử lý tập dữ liệu (phân thành 2 tập train và test, tạo các file label,...) được thực hiện khi làm việc với mạng ANN, 2 phương pháp còn lại sử dụng lại dữ liệu đã được xử lý đó
+   Việc xử lý tập dữ liệu (phân thành 2 tập train và test, tạo các file label,...) được thực hiện khi làm việc với mạng ANN, 2 phương pháp NB và SVM sử dụng lại dữ liệu đã được xử lý đó
 # So sánh 3 phương pháp : 
 ## 1. Naive Bayes:
   Sử dụng mô hình Multinomial Naive Bayes : chủ yếu được sử dụng trong phân loại văn bản mà feature vectors được tính bằng Bags of Words 
