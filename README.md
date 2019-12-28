@@ -2,7 +2,7 @@
 # Tập dữ liệu :
   Sử dụng tập dữ liệu 20newsgroup phiên bản 20news-18828 ( không gồm những văn bản trùng lặp và những văn bản thuộc nhiều chủ đề; dữ liệu chưa được phân loại thành tập train và test). Tập train và test được chia theo tỉ lệ 6/4 :
    - Dữ liệu được lưu trong 2 folder : 20newsgroup_train và 20newsgroup_test
-   - Nhãn lớp của các văn bản được lưu vào 2 file : train_label.data và test_label.data
+   - Nhãn lớp của các văn bản được lưu vào 2 file : train_label.txt và test_label.txt
 ## Chú ý:
    Việc xử lý tập dữ liệu (phân thành 2 tập train và test, tạo các file label,...) được thực hiện khi làm việc với mạng ANN, 2 phương pháp còn lại sử dụng lại dữ liệu đã được xử lý đó
 # So sánh 3 phương pháp : 
