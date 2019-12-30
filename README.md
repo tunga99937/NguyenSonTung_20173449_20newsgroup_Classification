@@ -12,7 +12,7 @@
   Sử dụng mô hình LinearSVC (Linear Support Vector Classification) với chiến lược “one-vs-the-rest”. Độ chính xác của tập dựu đoán là 87% (cao nhất trong 3 phương pháp)
 ## 3. Neural Network:
   - Mạng neural gồm 2 tầng: Mỗi tầng có kích thước là 100 nút. Activation function được sử dụng tại mỗi tầng là rectified linear unit (ReLu) : f(x) = max(0,x)
-  - Quá trình học trải qua 15 lần liên tiếp
+  - Quá trình học trải qua 20 lần liên tiếp
   - Độ chính xác của tập dự đoán là 79% ( thấp nhất trong 3 phương pháp), lý do: Chưa tạo được một từ điển tốt (Vẫn tồn tại những từ vô nghĩa và những stopwords); Số lần học chưa đủ nhiều.
    
      
